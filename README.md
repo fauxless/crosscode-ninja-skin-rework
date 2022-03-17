@@ -2,7 +2,7 @@
 
 0.1 - 2022 / 3 / 14 - Added new dialogue in intro scene, as well as modified it to make it sound betterish.
 
-0.2 - 2022 / 3 / 16 - Fixed some textures for the file: lea-panic.png
+0.2 - 2022 / 3 / 16 - Fixed some textures for the files: lea-panic.png, lea-special.png
 
 
 # crosscode-ninja-skin-rework-main
