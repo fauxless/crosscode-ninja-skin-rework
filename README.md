@@ -1,3 +1,8 @@
+# Updates
+
+0.1 - 2022 / 3 / 14 - Added new dialogue in intro scene, as well as modified it to make it sound betterish.
+----====
+
 # cc-ninja-skin-rework
 Overwrites nearly all of the original textures for Lea with textures befitting of the Ninja Skin DLC. Requires DLC to work properly.
 Please note that I am not at all a professional pixel artist, so some of these textures could use some more work. In any case, if you feel you want to make some changes, you absolutely can.
