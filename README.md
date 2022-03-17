@@ -3,11 +3,11 @@ Overwrites nearly all of the original textures for Lea with textures befitting o
 Please note that I am not at all a professional pixel artist, so some of these textures could use some more work. In any case, if you feel you want to make some changes, you absolutely can.
 
 # Explaining what this does #
-This is a simple mod that tries to better integrate the Ninja Skin DLC into CrossCode. _Almost_ all of the textures have been paletted over to fit the style and general theme of the Ninja Skin. This even includes facial expressions, all of which have been redone. There is also some modifications to dialogue to reflect characters' reactions to Lea's skin.
+This is a simple mod that tries to better integrate the Ninja Skin DLC into CrossCode. _Almost_ all of the textures have been paletted over to fit the style and general theme of the Ninja Skin. This even includes facial expressions, all of which have been redone. There is also some modifications to dialogue that reflect characters' reactions to Lea's skin.
 Please keep in mind that in the mods current state, not every texture is replaced -- there are a few, predominately from the "A New Home" DLC that still need to be done.
 
 # Preventing Piracy #
-Obviously, I can't just _give_ all of the files from the Ninja Skin DLC for you to download and use. Although that would be more convenient for installation, that would also be piracy. As a result, you will have to supply the main "entity/player" files from the main DLC in order to get the full experience. There will be a guide below on how to do that on Steam, but the process should be fairly similar if you own the game from another digital storefront. All it requires is locating the game files on your PC.
+Obviously, I can't just _give_ all of the files from the Ninja Skin DLC for you to download and use. Although that would be more convenient for installation, that would also be piracy. As a result, you will have to supply the main "entity/player" files from the main DLC in order to get the full experience. There will be a guide below on how to do that on Steam; the process should be fairly similar if you own the game from another digital storefront. All it requires is locating the game files on your PC.
 
 # Requirements #
 You're going to need CCLoader to install this mod, unless you want to manually inject each and every file into your game's directory. If that's what you would rather do, then more power to you. But for the rest of you, follow the installation guide below:
