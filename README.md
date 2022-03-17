@@ -1,9 +1,3 @@
-# Updates
-
-1.0.1 - 2022 / 3 / 14 - Added new dialogue in intro scene, as well as modified it to make it sound betterish.
-
-1.0.2 - 2022 / 3 / 16 - Updated textures for the following files: lea-panic.png, lea-special.png
-
 
 # crosscode-ninja-skin-rework-main
 Overwrites nearly all of the original textures for Lea with textures befitting of the Ninja Skin DLC. Requires DLC to work properly.
@@ -61,3 +55,11 @@ _Optional: If you want to give this mod file a .ccmod extension, you can do that
 Of course, in order to prevent piracy, please do not share your finished product of this mod with anyone else, unless they own the Skin. Radical Fish is an indie studio, so let's do our best to support their work in the future.
 
 That's it! Enjoy!
+
+# Updates
+
+1.0.1 - 2022 / 3 / 14 - Added new dialogue in intro scene, as well as modified it to make it sound betterish.
+
+1.0.2 - 2022 / 3 / 16 - Updated textures for the following files: lea-panic.png, lea-special.png
+
+1.0.3 - 2022 / 3 / 16 - Updated readme + Retextured the following files: lea-hand.png
