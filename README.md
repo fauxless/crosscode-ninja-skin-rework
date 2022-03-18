@@ -62,4 +62,4 @@ That's it! Enjoy!
 
 1.0.2 - 2022 / 3 / 16 - Updated textures for the following files: lea-panic.png, lea-special.png
 
-1.0.3 - 2022 / 3 / 17 - Updated readme + Retextured the following files: lea-hand.png
+1.0.3 - 2022 / 3 / 17 - Updated readme + Retextured the following files: lea-hand.png, hugging.png
