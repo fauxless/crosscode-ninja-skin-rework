@@ -42,6 +42,8 @@ You should see something like this:
 
 **7. Paste or drag in the files from the Ninja DLC into this folder.**
 
+Note: For the "A New Home" DLC, you will also need to add the __sleeping.png__ file in this folder as well.
+
 **8. Rename these textures to overwrite the _move.png_ and _throw.png_ respectively. You want the name to be identical to what these two files are.**
 Your going to have to remove the original files you're replacing before you can do this step.
 
