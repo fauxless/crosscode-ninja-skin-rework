@@ -1,7 +1,0 @@
-{
-    "name": "ninja-fixed",
-    "ccmodHumanName": "Ninja Skin Rework",
-    "description": "Adds new sprites and dialogue for the Ninja skin",
-    "version": "1.0.3",
-    "plugin": "mod.js"
-}
