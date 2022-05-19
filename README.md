@@ -67,3 +67,5 @@ That's it! Enjoy!
 1.0.3 - 2022 / 3 / 17 - Updated readme + Retextured the following files: lea-hand.png, hugging.png
 
 1.0.4 - 2022 / 3 / 19 - Added textures for sleeping.png, as well as made small modifications for the "A New Home" DLC
+
+1.0.5 - 2022 / 5 / 19 - Added dependencies in package.json (Thank you to the CC Modding server for pointing this out!)
