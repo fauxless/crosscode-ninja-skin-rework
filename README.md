@@ -11,7 +11,7 @@ Please keep in mind that in the mods current state, not every texture is replace
 Obviously, I can't just _give_ all of the files from the Ninja Skin DLC for you to download and use. Although that would be more convenient for installation, that would also be piracy. As a result, you will have to supply the main "entity/player" files from the main DLC in order to get the full experience. There will be a guide below on how to do that on Steam; the process should be fairly similar if you own the game from another digital storefront. All it requires is locating the game files on your PC.
 
 # Requirements #
-You're going to need CCLoader to install this mod, unless you want to manually inject each and every file into your game's directory. If that's what you would rather do, then more power to you. But for the rest of you, install CCLoader using the installation guide below:
+You're going to need CCLoader to install this mod, unless you want to manually inject each and every file (including the code changes) into your game's directory. If that's what you would rather do, then more power to you. But for the rest of you, install CCLoader using the installation guide below:
 https://www.youtube.com/watch?v=kY3_C2D2gDA
 
 You also will need a file archiver program, such as WinRAR or 7Zip. Chances are you likely already have a program like these on your computer if you have ever downloaded a _.zip_ file before.
