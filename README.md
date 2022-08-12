@@ -73,3 +73,5 @@ That's it! Enjoy!
 1.0.5 - 2022 / 5 / 19 - Added dependencies in package.json (Thank you to the CC Modding server for pointing this out!)
 
 1.0.6 - 2022 / 6 / 1  - Merged pull request that should fix issues with package.json (Greatly appreciated)
+
+1.0.6 - 2022 / 8 / 11  - Created a proper release and updated the readme.
