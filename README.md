@@ -14,6 +14,8 @@ Obviously, I can't just _give_ all of the files from the Ninja Skin DLC for you 
 You're going to need CCLoader to install this mod, unless you want to manually inject each and every file (including the code changes) into your game's directory. If that's what you would rather do, then more power to you. But for the rest of you, install CCLoader using the installation guide below:
 https://www.youtube.com/watch?v=kY3_C2D2gDA
 
+For all intensive purposes, I recommend using CCLoader to save time instead of installing all of the asset replacements.
+
 You also will need a file archiver program, such as WinRAR or 7Zip. Chances are you likely already have a program like these on your computer if you have ever downloaded a _.zip_ file before.
 
 # Installation Guide #
