@@ -74,4 +74,4 @@ That's it! Enjoy!
 
 1.0.6 - 2022 / 6 / 1  - Merged pull request that should fix issues with package.json (Greatly appreciated)
 
-1.0.6 - 2022 / 8 / 11  - Created a proper release and updated the readme.
+1.0.7 - 2022 / 8 / 11  - Created a proper release and updated the readme.
