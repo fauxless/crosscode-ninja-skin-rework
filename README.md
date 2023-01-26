@@ -1,7 +1,3 @@
-
-# Warning!
-There's currently a crash issue I'm working on fixing. Please follow the steps in 'Issues' to resolve this temporarily.
-
 # crosscode-ninja-skin-rework-main
 Overwrites nearly all of the original textures for Lea with textures befitting of the Ninja Skin DLC. Requires DLC to work properly.
 Please note that I am not at all a professional pixel artist, so some of these textures could use some more work. In any case, if you feel you want to make some changes, you absolutely can.
