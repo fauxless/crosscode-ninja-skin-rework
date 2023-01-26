@@ -19,9 +19,9 @@ You also will need a file archiver program, such as WinRAR or 7Zip. Chances are 
 
 # Installation Guide #
 
-_STEP 0: Make sure you have CrossCode and the DLC installed, of course._
+_STEP 0: Make sure you have CrossCode and the DLC installed!
 
-**1. First off, clone / download the _.zip_ file from this repository under the 'Release' section.**
+**1. Clone / download the _.zip_ file from this repository under the 'Release' section.**
 
 **2. Extract the downloaded file to somewhere you can easily access it, such as your desktop.**
 
